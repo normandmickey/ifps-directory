@@ -1,6 +1,6 @@
 {
   "name": "Ifps-directory",
   "tagline": "",
-  "body": "This is an attempt to build an IPFS search engine. ",
+  "body": "This is an attempt to build an IPFS search engine http://fess.ipfs.directory\r\n\r\nRight now it crawls several pages hosting on IPFS nodes. To add yours please send email to ipfs.directory@gmail.com",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
